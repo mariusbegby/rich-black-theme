@@ -1,0 +1,53 @@
+{
+  "name": "rich-black-theme",
+  "displayName": "Rich Black Theme",
+  "description": "A dark theme with a rich black background and beautiful soft colors for easy readability.",
+  "version": "1.0.0",
+  "publisher": "mariusbegby",
+  "license": "MIT",
+  "icon": "icon.png",
+  "author": {
+    "name": "Marius Begby",
+    "url": "https://github.com/mariusbegby"
+  },
+  "homepage": "https://github.com/mariusbegby/rich-black-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariusbegby/rich-black-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/mariusbegby/rich-black-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "colors"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "galleryBanner": {
+    "color": "#0f1217",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rich Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rich-black-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package -o ./build/rich-black-theme.vsix"
+  }
+}
