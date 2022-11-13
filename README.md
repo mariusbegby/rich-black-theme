@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-    A dark theme with a rich black background and beautiful soft colors for easy readability.
+    Rich Black is a dark theme with a rich black background and beautiful soft colors for easy readability.
 </h3>
 <br>
 
@@ -25,13 +25,19 @@
 <br>
 <br>
 
-## Screenshots
+## Demo
 
-![Theme preview screenshot javascript](./screenshots/javascript.png)
+![Theme demo with JavaScript code](./screenshots/javascript.png)
 
-![Theme preview screenshot markdown and json](./screenshots/markdown_json.png)
+![Theme demo with React code](./screenshots/react.png)
 
-![Theme preview screenshot json with sidebar](./screenshots/json_sidebar.png)
+![Theme demo with Ejs code](./screenshots/ejs.png)
+
+![Theme demo with Sass code](./screenshots/scss.png)
+
+![Theme demo with Python code](./screenshots/python.png)
+
+![Theme demo with C# code](./screenshots/csharp.png)
 
 The font used in screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 
@@ -64,4 +70,3 @@ The font used in screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 | e-yellow      | #ccc43e | 204, 196, 62  |
 | f-white       | #e3e3e3 | 227, 227, 227 |
 | accent-orange | #df8f40 | 223, 143, 64  |
-
