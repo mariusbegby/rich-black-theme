@@ -691,7 +691,8 @@
                 "markup.quote",
                 "markup.inserted",
                 "meta.diff.header.to-file",
-                "punctuation.definition.inserted"
+                "punctuation.definition.inserted",
+                "meta.attribute-selector.scss"
             ],
             "settings": {
                 "foreground": "#85c27a"
@@ -779,7 +780,8 @@
                 "meta.diff.header.from-file",
                 "punctuation.definition.deleted",
                 "punctuation.section.embedded",
-                "brackethighlighter.unmatched"
+                "brackethighlighter.unmatched",
+                "keyword.other.unit"
             ],
             "settings": {
                 "foreground": "#e48484"
