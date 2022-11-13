@@ -13,13 +13,16 @@
 
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=mariusbegby.rich-black-theme">
-        <img src="https://img.shields.io/visual-studio-marketplace/v/mariusbegby.rich-black-theme?color=65c253&label=VERSION&logo=Visual%20Studio%20Code&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Version">
+        <img src="https://img.shields.io/visual-studio-marketplace/v/mariusbegby.rich-black-theme?color=65c253&label=VERSION&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Version">
     </a>&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=mariusbegby.rich-black-theme">
-        <img src="https://img.shields.io/visual-studio-marketplace/i/mariusbegby.rich-black-theme?color=65c253&label=INSTALLS&logo=Visual%20Studio%20Code&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Installations">
+        <img src="https://img.shields.io/visual-studio-marketplace/i/mariusbegby.rich-black-theme?color=65c253&label=INSTALLS&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Installations">
     </a>&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=mariusbegby.rich-black-theme">
-        <img src="https://img.shields.io/visual-studio-marketplace/r/mariusbegby.rich-black-theme?color=65c253&label=RATING&logo=Visual%20Studio%20Code&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Rating">
+        <img src="https://img.shields.io/visual-studio-marketplace/r/mariusbegby.rich-black-theme?color=65c253&label=RATING&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Rating">
+    </a>&nbsp;
+    <a href="https://vscode.dev/theme/mariusbegby.rich-black-theme">
+        <img src="https://img.shields.io/badge/DEMO-vscode.dev-blue?color=65c253&labelColor=1d232d&style=for-the-badge" alt="Theme live demo">
     </a>
 </p>
 <br>
@@ -27,7 +30,7 @@
 
 ## Table of contents <!-- omit in toc -->
 
-- [Demo](#demo)
+- [Screenshots](#screenshots)
   - [Javascript](#javascript)
   - [React](#react)
   - [Ejs](#ejs)
@@ -42,7 +45,7 @@
   - [Other colors](#other-colors)
   - [Color codes](#color-codes)
 
-## Demo
+## Screenshots
 
 ### Javascript
 
