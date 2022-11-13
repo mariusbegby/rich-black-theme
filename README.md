@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-    A dark theme with a rich black background and beautiful soft colors for easy readability.
+    Rich Black is a dark theme with a rich black background and beautiful soft colors for easy readability.
 </h3>
 <br>
 
@@ -25,13 +25,39 @@
 <br>
 <br>
 
-## Screenshots
+## Demo
 
-![Theme preview screenshot javascript](./screenshots/javascript.png)
+### Javascript
 
-![Theme preview screenshot markdown and json](./screenshots/markdown_json.png)
+![Theme demo with JavaScript code](./screenshots/javascript.png)
 
-![Theme preview screenshot json with sidebar](./screenshots/json_sidebar.png)
+### React
+
+![Theme demo with React code](./screenshots/react.png)
+
+### Ejs
+
+![Theme demo with Ejs code](./screenshots/ejs.png)
+
+### CSS / Sass
+
+![Theme demo with Sass code](./screenshots/scss.png)
+
+### Python
+
+![Theme demo with Python code](./screenshots/python.png)
+
+### C# (C Sharp)
+
+![Theme demo with C# code](./screenshots/csharp.png)
+
+### Markdown
+
+![Theme demo with Markdown code](./screenshots/markdown.png)
+
+### JSON
+
+![Theme demo with JSON code](./screenshots/json.png)
 
 The font used in screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 
@@ -39,7 +65,17 @@ The font used in screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 
 ## Colors
 
-![Image of colors with hex color codes](./screenshots/colors.png)
+### Normal colors
+
+![Image of normal colors with hex codes](./screenshots/colors_normal.png)
+
+### Bright colors
+
+![Image of bright colors with hex codes](./screenshots/colors_bright.png)
+
+### Other colors
+
+![Image of other colors with hex codes](./screenshots/colors_other.png)
 
 ### Color codes
 
@@ -64,4 +100,3 @@ The font used in screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 | e-yellow      | #ccc43e | 204, 196, 62  |
 | f-white       | #e3e3e3 | 227, 227, 227 |
 | accent-orange | #df8f40 | 223, 143, 64  |
-

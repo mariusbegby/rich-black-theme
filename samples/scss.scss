@@ -1,0 +1,23 @@
+*,
+::after,
+::before {
+    box-sizing: border-box;
+    &:hover {
+        filter: brightness(120%);
+        transition: 0.15s;
+        cursor: pointer;
+    }
+}
+
+#someId {
+    font-family: system-ui, -apple-system, 'Segoe UI';
+}
+
+.className {
+    font-size: 1.5em;
+}
+
+[type='submit'],
+button {
+    -webkit-appearance: button;
+}

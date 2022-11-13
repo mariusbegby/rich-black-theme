@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('head') -%>
+
+    <body>
+        <div id="grid-container">
+            <%- include('header') -%>
+
+            <h1>Users</h1>
+
+            <ul id="users">
+                <!-- Displaying users -->
+                <% users.forEach(function(user) { %>
+                    <li><%= user.name %> &lt;<%= user.email %>&gt;</li>
+                <% }); %>
+            </ul>
+
+            <%- include('footer') -%>
+        </div>
+    </body>
+
+</html>
+
+
+
+
+
