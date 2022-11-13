@@ -703,7 +703,9 @@
                 "keyword.operator.quantifier.regexp",
                 "markup.inline.raw",
                 "meta.diff.range",
-                "variable.language.this"
+                "variable.language.this",
+                "entity.other.attribute-name.pseudo-element.css",
+                "entity.other.attribute-name.pseudo-class.css"
             ],
             "settings": {
                 "foreground": "#e0a8fd"
