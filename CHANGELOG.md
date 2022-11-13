@@ -2,6 +2,10 @@
 
 All notable changes to the "rich-black-theme" extension will be documented in this file.
 
+## 1.0.3
+
+- Added badge with link to [live demo](https://vscode.dev/theme/mariusbegby.rich-black-theme).
+
 ## 1.0.2
 
 - Updated `README.md` with table of contents.
