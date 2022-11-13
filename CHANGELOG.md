@@ -2,6 +2,11 @@
 
 All notable changes to the "rich-black-theme" extension will be documented in this file.
 
+## 1.0.2
+
+- Updated `README.md` with table of contents.
+- Changed badge in `README.md` from extension downloads to installs.
+
 ## 1.0.1
 
 - Added colors for css/sass pseudo classes (e.g. `:hover`) and elements (e.g. `::before`).

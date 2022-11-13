@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/visual-studio-marketplace/v/mariusbegby.rich-black-theme?color=65c253&label=VERSION&logo=Visual%20Studio%20Code&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Version">
     </a>&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=mariusbegby.rich-black-theme">
-        <img src="https://img.shields.io/visual-studio-marketplace/d/mariusbegby.rich-black-theme?color=65c253&label=DOWNLOADS&logo=Visual%20Studio%20Code&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Downloads">
+        <img src="https://img.shields.io/visual-studio-marketplace/i/mariusbegby.rich-black-theme?color=65c253&label=INSTALLS&logo=Visual%20Studio%20Code&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Installations">
     </a>&nbsp;
     <a href="https://marketplace.visualstudio.com/items?itemName=mariusbegby.rich-black-theme">
         <img src="https://img.shields.io/visual-studio-marketplace/r/mariusbegby.rich-black-theme?color=65c253&label=RATING&logo=Visual%20Studio%20Code&style=for-the-badge&labelColor=1d232d" alt="VS Code Extension Rating">
@@ -24,6 +24,23 @@
 </p>
 <br>
 <br>
+
+## Table of contents <!-- omit in toc -->
+
+- [Demo](#demo)
+  - [Javascript](#javascript)
+  - [React](#react)
+  - [Ejs](#ejs)
+  - [CSS / Sass](#css--sass)
+  - [Python](#python)
+  - [C# (C Sharp)](#c-c-sharp)
+  - [Markdown](#markdown)
+  - [JSON](#json)
+- [Colors](#colors)
+  - [Normal colors](#normal-colors)
+  - [Bright colors](#bright-colors)
+  - [Other colors](#other-colors)
+  - [Color codes](#color-codes)
 
 ## Demo
 
