@@ -65,7 +65,17 @@ The font used in screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 
 ## Colors
 
-![Image of colors with hex color codes](./screenshots/colors.png)
+### Normal colors
+
+![Image of normal colors with hex codes](./screenshots/colors_normal.png)
+
+### Bright colors
+
+![Image of bright colors with hex codes](./screenshots/colors_bright.png)
+
+### Other colors
+
+![Image of other colors with hex codes](./screenshots/colors_other.png)
 
 ### Color codes
 
