@@ -27,17 +27,37 @@
 
 ## Demo
 
+### Javascript
+
 ![Theme demo with JavaScript code](./screenshots/javascript.png)
+
+### React
 
 ![Theme demo with React code](./screenshots/react.png)
 
+### Ejs
+
 ![Theme demo with Ejs code](./screenshots/ejs.png)
+
+### CSS / Sass
 
 ![Theme demo with Sass code](./screenshots/scss.png)
 
+### Python
+
 ![Theme demo with Python code](./screenshots/python.png)
 
+### C# (C Sharp)
+
 ![Theme demo with C# code](./screenshots/csharp.png)
+
+### Markdown
+
+![Theme demo with Markdown code](./screenshots/markdown.png)
+
+### JSON
+
+![Theme demo with JSON code](./screenshots/json.png)
 
 The font used in screenshots is [Fira Code](https://github.com/tonsky/FiraCode).
 
