@@ -1,8 +1,8 @@
 {
     "name": "rich-black-theme",
     "displayName": "Rich Black Theme",
-    "description": "Rich Black is a dark theme with a rich black background and beautiful soft colors for easy readability.",
-    "version": "1.0.2",
+    "description": "🎨 Rich Black is a dark theme with a rich black background and beautiful soft colors for easy readability.",
+    "version": "1.1.0",
     "publisher": "mariusbegby",
     "license": "MIT",
     "icon": "icon.png",
@@ -26,7 +26,7 @@
     ],
     "keywords": [
         "rich black",
-        "black",
+        "dark theme",
         "dark",
         "black",
         "colors",
@@ -48,6 +48,11 @@
                 "label": "Rich Black",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rich-black-theme.json"
+            },
+            {
+                "label": "Rich Black (no italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rich-black-theme-no-italic.json"
             }
         ]
     },
