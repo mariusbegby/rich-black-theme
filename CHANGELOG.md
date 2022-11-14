@@ -2,6 +2,11 @@
 
 All notable changes to the "rich-black-theme" extension will be documented in this file.
 
+## 1.1.0
+
+- Added "no italics" option, available through theme selector menu.
+- Updated description and keywords in `package.json`.
+
 ## 1.0.3
 
 - Added badge with link to [live demo](https://vscode.dev/theme/mariusbegby.rich-black-theme).
