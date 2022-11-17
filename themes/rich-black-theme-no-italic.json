@@ -795,7 +795,7 @@
             }
         },
         {
-            "scope": ["source.regexp", "string.regexp"],
+            "scope": ["source.regexp", "string.regexp", "entity.name.tag.namespace.xml"],
             "settings": {
                 "foreground": "#71c2aa"
             }
