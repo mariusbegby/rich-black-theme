@@ -619,7 +619,7 @@
     },
     "tokenColors": [
         {
-            "scope": ["variable", "variable.other"],
+            "scope": ["variable", "variable.other", "text.xml"],
             "settings": {
                 "foreground": "#e3e3e3"
             }
@@ -653,7 +653,8 @@
                 "keyword",
                 "support.type",
                 "meta.object-literal.key",
-                "meta.property-name"
+                "meta.property-name",
+                "punctuation.definition.tag.xml"
             ],
             "settings": {
                 "foreground": "#cccccc"
@@ -795,7 +796,7 @@
             }
         },
         {
-            "scope": ["source.regexp", "string.regexp"],
+            "scope": ["source.regexp", "string.regexp", "entity.name.tag.namespace.xml"],
             "settings": {
                 "foreground": "#71c2aa"
             }
