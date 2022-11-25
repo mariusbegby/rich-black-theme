@@ -2,6 +2,11 @@
 
 All notable changes to the "rich-black-theme" extension will be documented in this file.
 
+## 1.1.1
+
+- Improved XML syntax highlighting.
+- Added XML sample code.
+
 ## 1.1.0
 
 - Added "no italics" option, available through theme selector menu.
